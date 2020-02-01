@@ -13,8 +13,8 @@ h1 {
     background-color: black;
     color: #efeee7;
     margin: 0;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    margin-bottom: 20px;
+    padding: 20px 0;
     font-size: 28px;
 }
 
@@ -32,9 +32,9 @@ a {
 }
 
 
+#bio-image,
 #bio,
-#contact,
-#bio-image {
+#contact {
     float: left;
 }
 
@@ -50,6 +50,8 @@ a {
     border: 1px solid black;
     border-radius:20%;
     margin-right: 20px;
+    width: 200px;
+    height: 200px;
 }
 
 
