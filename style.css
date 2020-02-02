@@ -8,14 +8,15 @@ body {
     line-height: 150%;
 }
 
+
 h1 {
-    text-align:center;
-    background-color: black;
-    color: #efeee7;
+    padding: 20px 0;
     margin: 0;
     margin-bottom: 20px;
-    padding: 20px 0;
-    font-size: 28px;
+    font-size:28px;
+    text-align:center;
+    color: #efeee7;
+    background-color: black;
 }
 
 h2 {
@@ -32,9 +33,9 @@ a {
 }
 
 
-#bio-image,
 #bio,
-#contact {
+#contact,
+#bio-image {
     float: left;
 }
 
